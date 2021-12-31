@@ -1,0 +1,10 @@
+com\mobileautomationframework\objectrepository\LoginScreen.class
+com\mobileautomationframework\utility\Utilities$Directions.class
+com\mobileautomationframework\base\AppiumServer.class
+com\mobileautomationframework\utility\Utilities$1.class
+com\mobileautomationframework\functions\LoginFunctions.class
+com\mobileautomationframework\utility\ExtentReport.class
+com\mobileautomationframework\utility\Utilities.class
+com\mobileautomationframework\datadriven\DataDriven.class
+com\mobileautomationframework\base\DriverSetup.class
+com\mobileautomationframework\utility\Listeners.class
